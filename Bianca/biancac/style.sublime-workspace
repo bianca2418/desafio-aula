@@ -1,0 +1,394 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bakc",
+				"background-origin\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"f",
+				"figcaption\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"l",
+				"loop\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"í",
+				"Índigena"
+			],
+			[
+				"R",
+				"Raça"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"s",
+				"Sexo"
+			],
+			[
+				"me",
+				"Messi"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index2.html",
+			"settings":
+			{
+				"buffer_size": 434,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vai-na-web-06/Documentos/biancac/index.html2",
+		"/home/vai-na-web-06/Bianca/css/desafio3_1.css",
+		"/home/vai-na-web-06/Downloads/style.css",
+		"/home/vai-na-web-06/Downloads/index.html",
+		"/home/vai-na-web-06/Documentos/biancac/style.css",
+		"/home/vai-na-web-06/Documentos/biancac/fut.html",
+		"/home/vai-na-web-06/Downloads/desafio-para-casa-css-20190322T121557Z-001/desafio-para-casa-css/style.css",
+		"/home/vai-na-web-06/Downloads/desafio-para-casa-css-20190322T121557Z-001/desafio-para-casa-css/index.html",
+		"/home/vai-na-web-06/Documentos/cleitondesafiodouglas/style.css",
+		"/home/vai-na-web-06/Documentos/cleitondesafiodouglas/index.html",
+		"/home/vai-na-web-06/Documentos/cleitondesafiodouglas/cleitonaguiar",
+		"/home/vai-na-web-06/Documentos/biancac/desafio3_3atualizada.html",
+		"/home/vai-na-web-06/Documentos/biancac/desafio3_3.html",
+		"/home/vai-na-web-06/Documentos/biancac/index.html",
+		"/home/vai-na-web-06/Documentos/luancleitoncss/style.css",
+		"/home/vai-na-web-06/Documentos/luancleitoncss/index.html",
+		"/home/vai-na-web-06/Documentos/cleitonluancss/style.css",
+		"/home/vai-na-web-06/Documentos/cleitonluancss/index.html",
+		"/home/vai-na-web-06/Documentos/index.html",
+		"/home/vai-na-web-06/Documentos/Gabriel/index.html",
+		"/home/vai-na-web-06/Documentos/Gabriel/css3/style.css",
+		"/home/vai-na-web-06/Documentos/Gabriel/style.css",
+		"/home/vai-na-web-06/Documentos/Gabriel/CSS3/style.css",
+		"/home/vai-na-web-06/Documentos/aula10css/index.html",
+		"/home/vai-na-web-06/Downloads/thomaz/index.html",
+		"/home/vai-na-web-06/Downloads/thomaz/index.html=th",
+		"/home/vai-na-web-06/Downloads/thomaz/desafio 1",
+		"/home/vai-na-web-06/Downloads/test.html",
+		"/home/vai-na-web-06/Documentos/luanvictordsf8/index.html",
+		"/home/vai-na-web-06/Documentos/luanvictordsf8/index2.html",
+		"/home/vai-na-web-06/index.html",
+		"/home/vai-na-web-06/Documentos/cleiton",
+		"/home/vai-na-web-06/Documentos/Desafio formulário/index.html",
+		"/home/vai-na-web-06/Documentos/Desafio formulário/desafio2form.html",
+		"/home/vai-na-web-06/Documentos/GabrieleYasmin/desafio2form.html",
+		"/home/vai-na-web-06/Documentos/GabrieleYasmin/index.html",
+		"/home/vai-na-web-06/maicon-joao/aula 4/primeirapagina.html",
+		"/home/vai-na-web-06/maicon-joao/aula 4/minhahistoria.html",
+		"/home/vai-na-web-06/maicon-joao/index.html",
+		"/home/vai-na-web-06/maicon-joao/meuidolo.html",
+		"/home/vai-na-web-06/maicon-joao/guiaturistico.html",
+		"/home/vai-na-web-06/maicon-joao/meualbum.html",
+		"/home/vai-na-web-06/maicon-joao/wiki.html",
+		"/home/vai-na-web-06/Downloads/Juliene-João/desafio5.html",
+		"/home/vai-na-web-06/Downloads/Juliene-João/desafio4.html",
+		"/home/vai-na-web-06/Downloads/Juliene-João/desafio3.html",
+		"/home/vai-na-web-06/Downloads/vinicius/index.html",
+		"/home/vai-na-web-06/Downloads/vinicius/2pagina.html",
+		"/home/vai-na-web-06/Downloads/vinicius/1desafio.html",
+		"/home/vai-na-web-06/Downloads/vinicius/2desafio.html",
+		"/home/vai-na-web-06/Downloads/vinicius/2pagina",
+		"/home/vai-na-web-06/Documentos/Brenda_Santiago/index.html",
+		"/home/vai-na-web-06/Documentos/viniciusarthur12345/index.html",
+		"/home/vai-na-web-06/Documentos/viniciusarthur12345/desafio2.html",
+		"/home/vai-na-web-06/Documentos/viniciusarthur12345/desafio3.html",
+		"/home/vai-na-web-06/Documentos/viniciusarthur12345/desafio4.html",
+		"/home/vai-na-web-06/Documentos/viniciusarthur12345/desafio5.html",
+		"/home/vai-na-web-06/Documentos/treino/index.html",
+		"/home/vai-na-web-06/Documentos/treino/desafio2.html",
+		"/home/vai-na-web-06/Documentos/treino/desafio3.html",
+		"/home/vai-na-web-06/Documentos/treino/desafio4.html",
+		"/home/vai-na-web-06/Documentos/treino/desafio5.html",
+		"/home/vai-na-web-06/Documentos/nathalia/index.html",
+		"/home/vai-na-web-06/Documentos/maiaraarthur/desafio2.html",
+		"/home/vai-na-web-06/Documentos/maiaraarthur/index.html",
+		"/home/vai-na-web-06/Documentos/maiaraarthur/desafio2",
+		"/home/vai-na-web-06/Documentos/desafios/index.html",
+		"/home/vai-na-web-06/Documentos/juliana/index.html",
+		"/home/vai-na-web-06/Documentos/primeiro projeto/index.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "",
+	"project": "style.css2",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
